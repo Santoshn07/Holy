@@ -1,0 +1,3 @@
+$ git clone https://github.com/QuiteAFancyEmerald/HolyUnblockerPublic.git
+$ cd HolyUnblockerPublic
+$ npm install
